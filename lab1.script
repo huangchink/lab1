@@ -1,0 +1,34 @@
+Script started on 2019年03月 3日 下午 11:49:32
+]0;~
+[32m黃子青@LAPTOP-TVD705HA [33m~[0m
+$ whom[Kami; pwd
+黃子青
+/home/黃子青
+]0;~
+[32m黃子青@LAPTOP-TVD705HA [33m~[0m
+$ git congi[K[Kfig -l
+[?1h=user.email=stu1010614@gmail.com[m
+user.name=huangchink[m
+color.ui=true[m
+[K[?1l>]0;~
+[32m黃子青@LAPTOP-TVD705HA [33m~[0m
+$ git clone https"//[K[K[K://github.com/huangchinl[Kk/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;~
+[32m黃子青@LAPTOP-TVD705HA [33m~[0m
+$ git clone https://github.com/huangchink/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;~
+[32m黃子青@LAPTOP-TVD705HA [33m~[0m
+$ git clone https://github.com/huangchink/lab1.git[C<huangchink/lab1.git[C[C[C[C[C[C[C[C[C[C[C>/lab1.git
+bash: huangchink: No such file or directory
+]0;~
+[32m黃子青@LAPTOP-TVD705HA [33m~[0m
+$ git clone https://github.com/<huangchink>/lab1.git[2Phuangchink/lab1.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit clone https://github.com/huangchink/lab1.git[C[C[C[C[C[C[Config -l[Klone https://github.com/huangchink/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;~
+[32m黃子青@LAPTOP-TVD705HA [33m~[0m
+$ exit
+
+Script done on 2019年03月 3日 下午 11:54:58
